@@ -14,10 +14,12 @@ SLAM:
 	http://www.slamcn.org
 
 UAV:
-	http://ardupilot.org/copter/docs/advanced-multicopter-design.html
+	http://ardupilot.org/ardupilot/
 	
 Robot:
 
 Maker:
-
+	http://www.makeblock.com/
+	http://www.kittenbot.cn/
+	
 Others:
