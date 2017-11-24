@@ -6,10 +6,9 @@ Git is free software distributed under the GPL.
 
 // Python C/C++ JavaScript Matlab 
 
-
-// website log
-
-
+/********************************************************************
+	website log
+********************************************************************/
 SLAM:
 	http://www.slamcn.org
 

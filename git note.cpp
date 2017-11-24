@@ -34,3 +34,10 @@ git remote add origin https://github.com/hlym123/enableGit.git
 // 把本地库的内容推送到远程库上
 git push -u origin master
 
+
+//===============================================
+// 从远程仓库克隆
+//===============================================
+
+
+git clone 
