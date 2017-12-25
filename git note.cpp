@@ -41,3 +41,5 @@ git push -u origin master
 
 
 git clone 
+
+git pull

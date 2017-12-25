@@ -25,3 +25,8 @@ Bootloader local
 
 
 
+/*
+ Arduino内存优化
+#include <avr/pgmspace.h> 
+const data_type my_array[] PROGMEM = 
+*/
