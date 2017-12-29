@@ -263,9 +263,9 @@ int main(int argc, char **argv)
 *************************************************************************************/
 
 
-// ====================================================
+// =============================================================
 // 1. ROS与Arduino-Hello World (publisher例子)
-// ====================================================
+// =============================================================
 /**
  * rosserial Publisher Example
  * Prints "hello world!"
@@ -295,15 +295,16 @@ void loop()
 	delay(1000);
 }
 
-// 终端运行
+// 新终端运行，/dev/ttyUSB0为Arduino设备
 rosrun rosserial_python serial_node.py /dev/ttyUSB0
 // 消息显示
 rostopic echo chatter 
+ 
 
 
-// ====================================================
+// =============================================================
 // 2. ROS与Arduino-Blink (subscriber例子) 
-// ====================================================
+// =============================================================
 /**
  * rosserial Subscriber Example
  * Blinks an LED on callback
@@ -315,7 +316,8 @@ rostopic echo chatter
 ros::NodeHandle nh;
 
 // 创建回调函数messageCb,必需传递常量消息引用值作为参数
-void messageCb(const std_msgs::Empty& toggle_msg){
+void messageCb(const std_msgs::Empty& toggle_msg)
+{
 	digitalWrite(13, HIGH-digitalRead(13));   // blink the led
 }
 
@@ -335,23 +337,213 @@ void loop()
 	delay(1);
 }
 
-// 终端运行
+// 新终端运行，/dev/ttyUSB0为Arduino设备
 rosrun rosserial_python serial_node.py /dev/ttyUSB0
 // 发布主题
 rostopic pub toggle_led std_msgs/Empty --once
 
 
 
+// =============================================================
+// 3. ROS与Arduino-使用ros::Time和TF
+// =============================================================
+/** 
+ * rosserial Time and TF Example
+ * Publishes a transform at current time
+ */
+
+#include <ros.h>
+#include <ros/time.h>
+#include <tf/transform_broadcaster.h>
+
+ros::NodeHandle  nh;
+
+// 实例化TransformStamped消息类，broadcaster类
+geometry_msgs::TransformStamped t;  
+tf::TransformBroadcaster broadcaster;
+
+// 指定需要进行转换的参考系名称/base_link，/odom
+char base_link[] = "/base_link";
+char odom[] = "/odom";
+
+void setup()
+{
+	nh.initNode();
+	broadcaster.init(nh);  // 初始化broadcaster类，使用节点处理类作为参数。
+}
+
+void loop()
+{  
+	// 设置不同参考系的名称，及转换的值内容
+	t.header.frame_id = odom;
+	t.child_frame_id = base_link;
+	t.transform.translation.x = 1.0; 
+	t.transform.rotation.x = 0.0;
+	t.transform.rotation.y = 0.0; 
+	t.transform.rotation.z = 0.0; 
+	t.transform.rotation.w = 1.0;  
+	
+	t.header.stamp = nh.now();  // 调用nh.now()，返回当前的时间。
+	
+	broadcaster.sendTransform(t);
+	nh.spinOnce();
+	delay(10);
+}
+
+// 新终端运行，/dev/ttyUSB0为Arduino设备
+rosrun rosserial_python serial_node.py /dev/ttyUSB0
+// 检查是否成功
+rosrun tf tf_echo odom base_link
 
 
 
+// =============================================================
+// 4. ROS与Arduino-Temperature Sensor（温度传感器）
+// =============================================================
+#include <Wire.h>
+#include <ros.h>
+#include <std_msgs/Float32.h>
+
+
+//Set up the ros node and publisher
+std_msgs::Float32 temp_msg;
+ros::Publisher pub_temp("temperature", &temp_msg);
+ros::NodeHandle nh;
+
+int sensorAddress = 0x91 >> 1;  // From datasheet sensor address is 0x91
+                                // shift the address 1 bit right,
+                                // the Wire library only needs the 7
+                                // most significant bits for the address
+
+void setup()
+{
+	Wire.begin();        // join i2c bus (address optional for master)
+
+	nh.initNode();
+	nh.advertise(pub_temp);
+}
+
+long publisher_timer;
+
+void loop()
+{
+	if (millis() > publisher_timer) {
+		// step 1: request reading from sensor
+		Wire.requestFrom(sensorAddress,2);
+		delay(10);
+		if (2 <= Wire.available()) {  // if two bytes were received
+			byte msb;
+			byte lsb;
+			int temperature;
+
+			msb = Wire.read();  // receive high byte (full degrees)
+			lsb = Wire.read();  // receive low byte (fraction degrees)
+			temperature = ((msb) << 4);  // MSB
+			temperature |= (lsb >> 4);   // LSB
+
+			temp_msg.data = temperature*0.0625;
+			pub_temp.publish(&temp_msg);
+		}
+
+		publisher_timer = millis() + 1000; //publish once a second
+	}
+
+	nh.spinOnce();
+}
+
+#include <OneWire.h>
+#include <DallasTemperature.h>
+ 
+// 定义DS18B20数据口连接arduino的2号IO上
+#define ONE_WIRE_BUS 2
+ 
+// 初始连接在单总线上的单总线设备
+OneWire oneWire(ONE_WIRE_BUS);
+DallasTemperature sensors(&oneWire);
+ 
+void setup(void)
+{
+  // 设置串口通信波特率
+  Serial.begin(9600);
+  Serial.println("Dallas Temperature IC Control Library Demo");
+ 
+  // 初始库
+  sensors.begin();
+}
+ 
+void loop(void)
+{ 
+  Serial.print("Requesting temperatures...");
+  sensors.requestTemperatures(); // 发送命令获取温度
+  Serial.println("DONE");
+   
+  Serial.print("Temperature for the device 1 (index 0) is: ");
+  Serial.println(sensors.getTempCByIndex(0));  
+}
 
 
 
+// =============================================================
+// 5. ROS与Arduino-Push Button(按钮)
+// =============================================================
+/** 
+ * Button Example for Rosserial
+ */
+
+#include <ros.h>
+#include <std_msgs/Bool.h>
 
 
+ros::NodeHandle nh;
 
+std_msgs::Bool pushed_msg;
+ros::Publisher pub_button("pushed", &pushed_msg);
 
+const int button_pin = 7;
+const int led_pin = 13;
+
+bool last_reading;
+long last_debounce_time=0;
+long debounce_delay=50;
+bool published = true;
+
+void setup()
+{
+	nh.initNode();
+	nh.advertise(pub_button);
+
+	pinMode(led_pin, OUTPUT);
+	pinMode(button_pin, INPUT);
+
+	// Enable the pullup resistor on the button
+	digitalWrite(button_pin, HIGH);
+
+	// The button is a normally button
+	last_reading = !digitalRead(button_pin);
+}
+
+void loop()
+{
+	bool reading = ! digitalRead(button_pin);
+
+	if (last_reading != reading){
+		last_debounce_time = millis();
+		published = false;
+	}
+
+	// if the button value has not changed during the debounce delay
+	// we know it is stable
+	if (!published && (millis() - last_debounce_time) > debounce_delay) {
+		digitalWrite(led_pin, reading);
+		pushed_msg.data = reading;
+		pub_button.publish(&pushed_msg);
+		published = true;
+	}
+
+	last_reading = reading;
+
+	nh.spinOnce();
+}
 
 
 
