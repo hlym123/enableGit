@@ -30,3 +30,183 @@ Bootloader local
 #include <avr/pgmspace.h> 
 const data_type my_array[] PROGMEM = 
 */
+
+
+
+
+
+
+
+
+/**********************************************************************************************
+	Arduino language reference
+	
+	https://www.arduino.cc/reference/en/#functions
+	
+	
+	1. Functions
+	2. Veriables
+	3. Structure
+**********************************************************************************************/
+
+
+ 
+// 1. Functions
+
+// Digital I/O ============================================================
+digitalRead() 
+digitalWrite() 
+pinMode() 
+
+
+/**
+ * Reads the value from a specified digital pin, either HIGH or LOW.
+ * @pin: the number of the digital pin you want to read
+ * @return: HIGH or LOW
+ */
+digitalRead(pin); 
+
+/**
+ * Write a HIGH or a LOW value to a digital pin.
+ * @pin: the pin number
+ * @value: HIGH or LOW
+ */
+digitalWrite(pin, value);
+
+/**
+ * Configures the specified pin to behave either as an input or an output.
+ * @pin: the number of the pin whose mode you wish to set
+ * @mode: INPUT, OUTPUT, or INPUT_PULLUP. 
+ */
+pinMode(pin, mode);
+
+
+
+// Analog I/O ============================================================
+analogRead() 
+analogReference() 
+analogWrite() 
+
+
+/**
+ * Reads the value from the specified analog pin. 
+ * @pin: the number of the analog input pin to read from.
+ * @return: int(0 to 1023)
+ */
+analogRead(pin) 
+
+
+ 
+
+
+// Zero, Due & MKR Family =================================================
+analogReadResolution() 
+analogWriteResolution() 
+
+// Advanced I/O
+noTone() 
+pulseIn() 
+pulseInLong() 
+shiftIn() 
+shiftOut() 
+tone() 
+
+
+// Time
+delay() 
+delayMicroseconds() 
+micros() 
+millis() 
+
+
+
+// Math
+abs() 
+constrain() 
+map() 
+max() 
+min() 
+pow() 
+sq() 
+sqrt() 
+
+// Trigonometry
+cos() 
+sin() 
+tan() 
+
+// Characters
+isAlpha() 
+isAlphaNumeric() 
+isAscii() 
+isControl() 
+isDigit() 
+isGraph() 
+isHexadecimalDigit() 
+isLowerCase() 
+isPrintable() 
+isPunct() 
+isSpace() 
+isUpperCase() 
+isWhitespace() 
+
+
+// Random Numbers
+random() 
+randomSeed() 
+Bits and Bytes
+bit() 
+bitClear() 
+bitRead() 
+bitSet() 
+bitWrite() 
+highByte() 
+lowByte() 
+
+// External Interrupts
+attachInterrupt() 
+detachInterrupt() 
+Interrupts
+interrupts() 
+noInterrupts() 
+
+// Communication
+serial 
+stream 
+
+// USB
+Keyboard 
+Mouse 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
