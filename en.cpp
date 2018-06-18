@@ -42,20 +42,46 @@ palace
 prison
 privilege
 thief
-shaver
-Swiss
-messy
+shaver 				shaver
+Swiss				Swiss
+messy				messy
 petrol
-gruel
-literature
+gruel				gruel
+literature		
 in other words
-complusory
-drawn
-geese
+compulsory			compulsory
+drawn				drawn
+geese	
 
 4. @2018/6/14
 bureaucratic
 laborer
+
+5. @2018/6/18
+handwriting
+aunt
+hat
+coward
+fee
+emperor
+empire
+castle
+hang up
+punctual
+bark
+chick
+badminton
+finance
+rope
+chance
+change
+downstairs
+
+
+
+
+
+
 
 
 
