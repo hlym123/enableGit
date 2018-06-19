@@ -42,7 +42,7 @@ palace
 prison
 privilege
 thief
-shaver 				shaver
+shaver 				shaver										电动剃须刀；刮刀		骗子；小毛孩
 Swiss				Swiss
 messy				messy
 petrol
@@ -76,6 +76,34 @@ rope
 chance
 change
 downstairs
+
+5. @2018/6/15
+molecule
+plain
+precious
+nutrition
+leaf
+vast
+majority
+pong
+least
+namely
+interview
+democracy
+hillside
+hang on
+occur 
+needle
+pension
+shelf
+liberty
+nephew
+interpreter
+salt
+strick
+dozen
+
+
 
 
 
