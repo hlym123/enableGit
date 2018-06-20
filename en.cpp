@@ -26,7 +26,7 @@ energy
 chimney
 pyramid
 forest
-comma
+comma[
 hen
 miniskirt
 
@@ -102,6 +102,68 @@ interpreter
 salt
 strick
 dozen
+
+6. @2018/6/20
+telescope
+binoculars
+sweet
+granny
+disobey
+sacred
+have a cold
+sharpen
+vest
+roller
+put off
+criterion
+bread
+so as to
+cab
+swear swore
+conventional
+oval
+quiet
+competence
+shore
+profit
+settlement
+towel
+ample
+roundabout
+regard
+troop
+tin
+pedestrian
+continent
+allocate
+result
+robot
+bun
+accountant
+gymastics
+waist
+erupt
+tall
+departure
+rag
+cushion
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
