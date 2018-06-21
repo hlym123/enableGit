@@ -26,7 +26,7 @@ energy
 chimney
 pyramid
 forest
-comma[
+comma
 hen
 miniskirt
 
@@ -91,17 +91,17 @@ namely
 interview
 democracy
 hillside
-hang on
+hang on					hang on
 occur 
 needle
 pension
 shelf
 liberty
 nephew
-interpreter
-salt
-strick
-dozen
+interpreter				interpreter
+salt					salt
+strick					strick
+dozen					dozen
 
 6. @2018/6/20
 telescope
@@ -112,8 +112,8 @@ disobey
 sacred
 have a cold
 sharpen
-vest
-roller
+vest					vest
+roller					
 put off
 criterion
 bread
@@ -138,15 +138,64 @@ continent
 allocate
 result
 robot
-bun
+bun					bun
 accountant
-gymastics
+gymnastics
 waist
 erupt
 tall
 departure
 rag
 cushion
+
+
+7. @2018/6/21
+stole
+seize
+westwards
+tease
+horrible
+chef
+ought to
+bathrobe
+tractor
+tasteless
+separately
+corn
+wrestle
+shortly
+spear
+thrill
+ray
+leaver
+relief
+woollen
+commitment
+boom
+settler
+rough
+Moslem
+adolescent
+capsule
+taxpayer
+embody
+ardor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
