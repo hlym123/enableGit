@@ -117,7 +117,7 @@ roller
 put off
 criterion
 bread
-so as to
+so as to				so as to
 cab
 swear swore
 conventional
@@ -138,7 +138,7 @@ continent
 allocate
 result
 robot
-bun					bun
+bun						bun
 accountant
 gymnastics
 waist
@@ -161,25 +161,46 @@ bathrobe
 tractor
 tasteless
 separately
-corn
+corn				corn
 wrestle
 shortly
 spear
-thrill
+thrill				thrill
 ray
 leaver
 relief
 woollen
-commitment
+commitment			commitment
 boom
 settler
-rough
+rough				rough
 Moslem
 adolescent
-capsule
+capsule				capsule
 taxpayer
 embody
 ardor
+
+8. @2018/6/24
+the Emperor Napoleon
+as well as
+nor
+lacking
+moral fiber
+beast
+plot
+corpoation
+multinational corporation
+warranty
+
+
+
+
+
+
+
+
+
 
 
 
