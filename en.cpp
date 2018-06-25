@@ -69,7 +69,7 @@ castle
 hang up
 punctual
 bark
-chick
+chick				chick
 badminton
 finance
 rope
@@ -192,6 +192,33 @@ plot
 corpoation
 multinational corporation
 warranty
+
+
+9. @2018/6/25
+staff 
+panic
+abundant
+strike
+put off
+dam
+blooded
+wise
+raw
+representative
+drum
+beach
+rid
+pound
+encourage
+
+
+
+
+
+
+
+
+
 
 
 
