@@ -102,7 +102,7 @@ interpreter				interpreter
 salt					salt
 strick					strick
 dozen					dozen
-
+//================================================================================== 
 6. @2018/6/20
 telescope
 binoculars
@@ -161,7 +161,7 @@ bathrobe
 tractor
 tasteless
 separately
-corn				corn
+corn				corn			corn
 wrestle
 shortly
 spear
@@ -176,7 +176,7 @@ settler
 rough				rough
 Moslem
 adolescent
-capsule				capsule
+capsule				capsule			capsule
 taxpayer
 embody
 ardor
@@ -207,9 +207,31 @@ raw
 representative
 drum
 beach
-rid
+rid					rid
 pound
 encourage
+
+10. @2018/6/26
+regardless
+table tennis
+now that
+solstice
+the summer/winter sosltice
+rung
+get on with someone
+agresssion
+spit
+colonial
+rubbish
+butter
+thrill
+dwell
+chorus
+brow
+swift
+
+
+
 
 
 
