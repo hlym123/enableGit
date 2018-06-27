@@ -102,17 +102,17 @@ interpreter				interpreter
 salt					salt
 strick					strick
 dozen					dozen
-//================================================================================== 
+
 6. @2018/6/20
 telescope
 binoculars
 sweet
 granny
 disobey
-sacred
+sacred					sacred
 have a cold
 sharpen
-vest					vest
+vest					vest			vest
 roller					
 put off
 criterion
@@ -188,7 +188,7 @@ nor
 lacking
 moral fiber
 beast
-plot
+plot							plot
 corpoation
 multinational corporation
 warranty
@@ -207,28 +207,49 @@ raw
 representative
 drum
 beach
-rid					rid
+rid					rid				rid
 pound
 encourage
 
 10. @2018/6/26
 regardless
 table tennis
-now that
+now that							now that
 solstice
 the summer/winter sosltice
-rung
+rung								rung
 get on with someone
-agresssion
+aggression
 spit
 colonial
 rubbish
 butter
 thrill
-dwell
-chorus
-brow
+dwell	
+chorus								chorus
+brow								brow
 swift
+
+11. @2018/6/27
+minister
+asset
+socialism
+hometown
+sour
+raise
+BC(Before Crist)
+eraser
+beast
+in a word
+divide up
+acquaintance
+along
+put out
+vague
+stuck
+cotton
+
+
 
 
 
