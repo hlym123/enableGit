@@ -207,7 +207,7 @@ raw
 representative
 drum
 beach
-rid					rid				rid
+rid					rid				rid				rid
 pound
 encourage
 
@@ -248,6 +248,29 @@ put out
 vague
 stuck
 cotton
+
+12. @2018/6/28
+ring back
+the Arctic
+enthusiastic
+offensive
+as well
+weep
+embodiment
+praise
+powder
+medium
+bakery
+so long as
+starve
+look out
+shopkeeper
+trip
+offense
+
+
+
+ 
 
 
 
