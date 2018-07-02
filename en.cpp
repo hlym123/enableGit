@@ -243,9 +243,9 @@ beast
 in a word
 divide up
 acquaintance
-along
+along					along
 put out
-vague
+vague					vague
 stuck
 cotton
 
@@ -267,6 +267,22 @@ look out
 shopkeeper
 trip
 offense
+
+13. @2018.7.2
+rouge
+shrine
+vague
+struggle against
+egress 
+pong
+solstice
+stuck
+put out
+struggle
+separation
+zip code
+
+
 
 
 
