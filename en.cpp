@@ -227,7 +227,7 @@ butter
 thrill
 dwell	
 chorus								chorus
-brow								brow
+brow								brow			brow
 swift
 
 11. @2018/6/27
@@ -251,11 +251,11 @@ cotton
 
 12. @2018/6/28
 ring back
-the Arctic
+the Arctic/Antarctica			
 enthusiastic
-offensive
+offensive					offensive
 as well
-weep
+weep						weep
 embodiment
 praise
 powder
@@ -281,6 +281,24 @@ put out
 struggle
 separation
 zip code
+
+14. @2018.7.3
+straight
+trow away
+harbour
+demand
+flour
+sigh
+award
+scarf
+conscious
+ 
+ 
+
+
+
+
+
 
 
 
