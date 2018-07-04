@@ -292,6 +292,30 @@ sigh
 award
 scarf
 conscious
+
+15. @2018.7.4
+now that
+rung
+accountant
+ballpoint pen
+playmate
+wash
+theft
+foe
+struck
+throughout
+clever
+slip
+yard
+commitment
+noun
+fist
+mineral
+generous
+explicit
+nut
+
+
  
  
 
