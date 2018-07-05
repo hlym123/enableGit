@@ -315,12 +315,50 @@ generous
 explicit
 nut
 
+16. @2018.7.5
+carpet
+boycott
+tobacco
+throat
+coat
+postgraduate
+rid
+pure
+hire
+wing
+behind
+competence
 
  
  
 
 
+/*************************************************************************************
 
+	@date:2018/7/5
+	
+	class
+
+*************************************************************************************/
+// Fruit:
+Apple, watermelon, pineapple, peach, cherry,
+
+// Vegetable:
+Spinach, 
+
+// Animal:
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster 
+
+// Country:
+Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, 
+
+// 
+Europe, Asia, Africa, Antarctica, Arctic
+Pacific, 
+
+
+
+ 
 
 
 
