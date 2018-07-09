@@ -329,6 +329,44 @@ wing
 behind
 competence
 
+17. @2018.7.9
+hilly
+pocket
+tremble
+moscow
+tape
+arrangement
+wrestle
+prescription
+shabby
+transparent
+fried
+redirect
+fierce
+paddle
+throat
+struck
+get away
+cafeteria
+neither
+chairwoman
+shooting
+look out
+hearted
+put on weight
+carpet
+set off
+giraffe
+violin
+boycott
+sweat
+nail
+
+
+
+
+
+
  
  
 
@@ -356,7 +394,14 @@ Greece, Germany, Japan, Korea, Britain, America, France, Australia, India,
 Europe, Asia, Africa, Antarctica, Arctic
 Pacific, 
 
+// Organ:
+throat, eye, 
 
+//
+violin, piano, 
+
+//
+tennis, basketball
 
  
 
