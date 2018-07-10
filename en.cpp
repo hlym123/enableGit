@@ -362,6 +362,34 @@ boycott
 sweat
 nail
 
+18. @2018.7.10
+fall asleep
+jam
+corn
+personnel
+eagle
+the atlantic ocean 
+brow
+punish
+salt
+forehead
+offense
+furthest
+pot
+spelling
+Tibet
+fog
+melon seed
+information desk
+
+
+
+
+
+
+
+
+
 
 
 
