@@ -12,13 +12,13 @@ orbit
 
 2. @2018/6/12	
 communism
-get through
-get on
-come down
+get through									// 结束（做完，通过，到达）
+get on			
+come down									// 下降，潦倒，流传
 cousin
 firewood
 gather
-get toghter
+get together								// 聚会，聚集，达成一致
 cough
 conscience
 evaluate
@@ -30,6 +30,7 @@ comma
 hen
 miniskirt
 
+// == review 2018.7.11 ==
 3. @2018/6/13
 cosy
 yoghurt
@@ -373,14 +374,52 @@ brow
 punish
 salt
 forehead
-offense
-furthest
+offense									// 犯罪，伤感情，攻击，得分率
+furthest							
 pot
 spelling
 Tibet
 fog
 melon seed
 information desk
+
+19. @2018.7.11
+latest									// 最近的，最新的
+tremble
+prescription
+pound
+rid
+nut
+scarf
+the arctic
+procedure
+beneath
+splendid
+strike
+sigh
+shabby
+after class
+flour
+significance
+fried
+redirect
+fierce
+hold out
+paddle
+mineral
+casual
+shortcoming
+blouse
+
+
+
+
+
+
+
+
+
+
 
 
 
