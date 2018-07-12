@@ -411,25 +411,23 @@ casual
 shortcoming
 blouse
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+20. @2018.7.12
+passionate
+do some cleaning
+nowhere
+panic
+regard
+put out
+shrine
+in all
+affair
+rouge
+brake
+altumn
+advance
+awful
+coast
+contemporary
 
 
 
@@ -452,23 +450,27 @@ Apple, watermelon, pineapple, peach, cherry,
 Spinach, 
 
 // Animal:
-Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster 
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur 
 
 // Country:
-Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, 
+Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, 
 
 // 
 Europe, Asia, Africa, Antarctica, Arctic
 Pacific, 
 
 // Organ:
-throat, eye, 
+throat, eye, mouth, ear, heart, liver, spleen, stomach, nephron
 
-//
-violin, piano, 
+// Musical Instrument
+violin, piano, guitar
 
-//
-tennis, basketball
+// 
+tennis, basketball, table tennis, golf, football, rugby, 
+
+// Season
+spring, summer, altumn, winter
+
 
  
 
