@@ -429,6 +429,28 @@ awful
 coast
 contemporary
 
+21. @2018.7.15
+fist
+yet
+giraffe
+bang
+neither
+fancy
+puzzle
+belt
+hurry
+Moscow, Mexico
+circus
+drown
+delighted
+museum
+classify
+marathon
+runner
+
+
+
+
 
 
 
@@ -450,7 +472,7 @@ Apple, watermelon, pineapple, peach, cherry,
 Spinach, 
 
 // Animal:
-Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur 
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, giraffe 
 
 // Country:
 Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, 
