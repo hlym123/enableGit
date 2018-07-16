@@ -448,6 +448,46 @@ classify
 marathon
 runner
 
+22. @2018.7.16
+passionate
+sheet
+Swiss
+aside
+rot
+questionnaire
+in oreder that
+ruin
+now that
+awful
+feather		feather
+steel
+premier
+passage
+chick
+pacific
+rode		ride rode ridden
+coast
+chalk
+let in
+humor
+vivid		vivid
+spot
+venom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -472,7 +512,7 @@ Apple, watermelon, pineapple, peach, cherry,
 Spinach, 
 
 // Animal:
-Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, giraffe 
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, giraffe, leopard 
 
 // Country:
 Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, 
