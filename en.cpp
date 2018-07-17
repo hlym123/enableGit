@@ -466,17 +466,45 @@ passage
 chick
 pacific
 rode		ride rode ridden
-coast
-chalk
+coast	
+chalk		chalk
 let in
 humor
 vivid		vivid
 spot
 venom
 
+23. @2018.7.17
+folk
+abrupt
+offense
+millimetre
+pong
+latest
+nothing
+dish
+look out
+cattle
+weep
+dine
+scarf
+blouse
+bitter
+slip
+struggle against
+vanilla
+trial
+salute
+modern
+mist
+dial
+shopkeeper
+hand in
+point to
+statesman
+postgraduate
 
-
-
+24. // review...
 
 
 
@@ -512,10 +540,10 @@ Apple, watermelon, pineapple, peach, cherry,
 Spinach, 
 
 // Animal:
-Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, giraffe, leopard 
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, giraffe, leopard, cattle 
 
 // Country:
-Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, 
+Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, New Zealand
 
 // 
 Europe, Asia, Africa, Antarctica, Arctic
@@ -528,17 +556,19 @@ throat, eye, mouth, ear, heart, liver, spleen, stomach, nephron
 violin, piano, guitar
 
 // 
-tennis, basketball, table tennis, golf, football, rugby, 
+tennis, basketball, table tennis, golf, football, rugby, bowling
 
 // Season
 spring, summer, altumn, winter
 
+// Unit
+millimetre, centimetre, metre
 
- 
+//
+agriculture, industry, 
 
-
-
-
+// 
+binary, octonary, decimal, hexadecimal
 
 
 
