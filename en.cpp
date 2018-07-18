@@ -494,17 +494,45 @@ slip
 struggle against
 vanilla
 trial
-salute
+salute		// 行礼，致敬，问候
 modern
 mist
 dial
 shopkeeper
 hand in
 point to
-statesman
+statesman		// 政治家，国务活动家
 postgraduate
 
 24. // review...
+mistook
+come to
+quilt 	quite	quit
+medium
+separation
+shadow
+exercise
+demand
+staff
+mean
+spirit
+solstice
+adolescent
+bend
+had better
+straight
+capsule
+break up
+offensive
+behind
+purse	// 钱包，资金，财富；皱起，使缩拢
+come out
+unrest
+imagine
+
+
+
+
 
 
 
