@@ -504,7 +504,7 @@ point to
 statesman		// 政治家，国务活动家
 postgraduate
 
-24. // review...
+24. @2018.7.18 
 mistook
 come to
 quilt 	quite	quit
@@ -529,6 +529,8 @@ purse	// 钱包，资金，财富；皱起，使缩拢
 come out
 unrest
 imagine
+
+25.  //review
 
 
 
@@ -568,7 +570,7 @@ Apple, watermelon, pineapple, peach, cherry,
 Spinach, 
 
 // Animal:
-Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, giraffe, leopard, cattle 
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, Giraffe, Leopard, Cattle, Rabbit 
 
 // Country:
 Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, New Zealand
