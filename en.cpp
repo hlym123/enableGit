@@ -530,7 +530,45 @@ come out
 unrest
 imagine
 
-25.  //review
+25.  @2018.7.19
+onto
+permit
+stuck
+drown
+polite			// 有礼貌的，客气的，有教养的
+astronaut
+boot
+attend			
+anxious
+perhaps
+boycott
+circus
+rouge
+cheese
+annual
+pardon
+delighted
+enlighten
+mild			// 味淡的，轻微的，文雅的，温柔的
+aside
+in time
+librarian
+spread
+convince
+botanical
+surplus
+due
+
+26. // review
+
+
+
+
+
+
+
+
+
 
 
 
@@ -599,6 +637,9 @@ agriculture, industry,
 
 // 
 binary, octonary, decimal, hexadecimal
+
+//
+chemistry, biology, physics, psychology, philosophy, mathematics, iatrology
 
 
 
