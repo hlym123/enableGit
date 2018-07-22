@@ -559,7 +559,36 @@ botanical
 surplus
 due
 
-26. // review
+26. @2018.7.22
+take the place of		// 代替，取代
+fierce					
+astronomy				// 天文学
+organ
+advance
+ferey
+housework
+lid
+personnel
+subtraction
+iatrology
+hay
+strict
+shabby
+relaxation
+scholarship
+grate		great
+toward
+tap
+mild
+noun
+telephone booth
+alongside
+ 
+
+
+
+
+27. // review & take photo
 
 
 
@@ -639,7 +668,7 @@ agriculture, industry,
 binary, octonary, decimal, hexadecimal
 
 //
-chemistry, biology, physics, psychology, philosophy, mathematics, iatrology
+chemistry, biology, physics, psychology, philosophy, mathematics, iatrology, astronomy
 
 
 
