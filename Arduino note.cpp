@@ -88,6 +88,8 @@ analogReference()
 analogWrite() 
 
 
+
+
 /**
  * Reads the value from the specified analog pin. 
  * @pin: the number of the analog input pin to read from.
@@ -95,23 +97,34 @@ analogWrite()
  */
 analogRead(pin) 
 
+// On most Arduino boards (those with the ATmega168 or ATmega328P), this function works on pins 3, 5, 6, 9, 10, and 11. 
+/**
+ * Writes an analog value (PWM wave) to a pin. 
+ * @pin: the pin to write to. Allowed data types: int. 
+ * @value: the duty cycle: between 0 (always off) and 255 (always on). Allowed data types: int
+ */
+analogWrite() 
+
 
  
-
 
 // Zero, Due & MKR Family =================================================
 analogReadResolution() 
 analogWriteResolution() 
 
 // Advanced I/O
+tone() 
 noTone() 
 pulseIn() 
 pulseInLong() 
 shiftIn() 
 shiftOut() 
-tone() 
 
-
+// tone()
+Generates a square wave of the specified frequency (and 50% duty cycle) on a pin.
+A duration can be specified, otherwise the wave continues until a call to noTone(). 
+The pin can be connected to a piezo buzzer or other speaker to play tones.
+ 
 // Time
 delay() 
 delayMicroseconds() 

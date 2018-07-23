@@ -565,7 +565,7 @@ fierce
 astronomy				// 天文学
 organ
 advance
-ferey
+// ferey
 housework
 lid
 personnel
@@ -583,15 +583,31 @@ mild
 noun
 telephone booth
 alongside
- 
 
+27. @2018.7.23
+cooker
+whenever
+tentative
+volleyball
+quilt
+underwear
+cellar
+yell
+drove
+worse
+next to
+wedding
+shoulder
+behind
+beat
+chalk
+veal
+cost
+dish
+west
+come out
 
-
-
-27. // review & take photo
-
-
-
+28. // review & take photo
 
 
 
@@ -653,7 +669,7 @@ throat, eye, mouth, ear, heart, liver, spleen, stomach, nephron
 violin, piano, guitar
 
 // 
-tennis, basketball, table tennis, golf, football, rugby, bowling
+tennis, basketball, table tennis, golf, football, rugby, bowling, volleyball
 
 // Season
 spring, summer, altumn, winter
