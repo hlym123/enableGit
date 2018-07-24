@@ -568,6 +568,7 @@ advance
 // ferey
 housework
 lid
+lip
 personnel
 subtraction
 iatrology
@@ -593,7 +594,7 @@ quilt
 underwear
 cellar
 yell
-drove
+drove			// 畜群，移动的人群或大批的东西
 worse
 next to
 wedding
@@ -607,7 +608,30 @@ dish
 west
 come out
 
-28. // review & take photo
+28. @2018.7.24
+exploit
+coat
+own
+cellar
+tomb
+clumsy
+coke
+pack
+valley
+swell
+mexican
+lent
+not at all
+absence from work
+shop assistant
+canyon
+
+
+
+
+
+29. // review & take photo
+
 
 
 
