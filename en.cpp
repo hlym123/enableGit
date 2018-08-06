@@ -613,24 +613,78 @@ exploit
 coat
 own
 cellar
-tomb
+tomb					tomb
 clumsy
-coke
-pack
-valley
-swell
-mexican
+coke					coke
+pack		
+valley					valley
+swell		
+mexican					mexican
 lent
 not at all
 absence from work
 shop assistant
-canyon
+canyon					canyon
 
 
+29. @2018.8.6
+call on
+opposite
+add up to
+biscuit
+accumulate
+gifted
+sneaker
+approve					approve
+wheat
+sell out
+carriage
+mend
+globe
+pine
+handy
+quarter
+feather	leather
+canal
+postcard
+Britain					Britain
+jaw
+plastic					plastic
+plaster
+cautious
+have classes			have classes
+trial
+do someone's best
+do someone's level best		
+bookcase				bookcase
+hand in					hand in
+aim 			
+secondhand
+lake
+nod
+offence/offense			offence
+worst					worst
+mist
+institue	college		academy
+realize
+turkey
+send for
+scar					scar
+bend
+sanction
+quilt
+booth					
+nurse
+hunger
+wool 
+tram					tram
+cellar
+blow
+all in all
+pretend
 
 
-
-29. // review & take photo
+30. // review & take photo
 
 
 
