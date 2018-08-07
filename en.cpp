@@ -588,7 +588,7 @@ alongside
 27. @2018.7.23
 cooker
 whenever
-tentative
+tentative			tentative
 volleyball
 quilt
 underwear
@@ -634,7 +634,7 @@ add up to
 biscuit
 accumulate
 gifted
-sneaker
+sneaker					sneaker
 approve					approve
 wheat
 sell out
@@ -668,7 +668,7 @@ mist
 institue	college		academy
 realize
 turkey
-send for
+send for	// 派人去请
 scar					scar
 bend
 sanction
@@ -676,6 +676,7 @@ quilt
 booth					
 nurse
 hunger
+hunger strike
 wool 
 tram					tram
 cellar
@@ -683,8 +684,54 @@ blow
 all in all
 pretend
 
+30. @2018.8.7
+controversial
+neat
+ambiguous
+lid
+glove
+brochure
+fall ill
+undo
+mild					// 味淡的，轻微的，文雅的，温柔的
+tour					tour	
+nerve
+from mouth to mouth
+ambient					ambient
+boating
+church
+confine
+spread
+sigh
+statesman
+ferry					ferry
+unrest
+rhyme rhythm
+pity
+shone
+purse					purse
+purpose
+salute
+sparrow
+scarf
+lately
+polite
+grate
+throat
+die out
+strait					strait
+weep
+rapair
+prepare
+silver
+alley
+now that				now that
+put down
+dine					dine
+awoke
+pray					pray
 
-30. // review & take photo
+31. // review & take photo
 
 
 
@@ -731,7 +778,8 @@ Apple, watermelon, pineapple, peach, cherry,
 Spinach, 
 
 // Animal:
-Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, Giraffe, Leopard, Cattle, Rabbit 
+Cat, Dog, Snake, Bat, Fox, Crab, Shrimp, Lobster, Fish, Dragon, Dinosaur, Giraffe, Leopard, Cattle, Rabbit,
+Squirrel,  
 
 // Country:
 Greece, Germany, Japan, Korea, Britain, America, France, Australia, India, Singapore, New Zealand
@@ -766,79 +814,10 @@ chemistry, biology, physics, psychology, philosophy, mathematics, iatrology, ast
 
 
 
- 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 
 
