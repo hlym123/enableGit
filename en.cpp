@@ -698,18 +698,19 @@ tour					tour
 nerve
 from mouth to mouth
 ambient					ambient
+ambience
 boating
 church
 confine
 spread
 sigh
 statesman
-ferry					ferry
+ferry					ferry	ferry
 unrest
 rhyme rhythm
 pity
 shone
-purse					purse
+purse					purse	purse
 purpose
 salute
 sparrow
@@ -719,19 +720,60 @@ polite
 grate
 throat
 die out
-strait					strait
+strait					strait	strait
 weep
-rapair
+repair
 prepare
 silver
 alley
 now that				now that
-put down
+put down				put down
 dine					dine
 awoke
 pray					pray
 
-31. // review & take photo
+31. 
+tidy tide
+boycott	cowboy
+junk
+canyon
+Mrs
+take it easy  // 从容
+inland
+point out
+awesome aware
+drove
+coke
+sharp shark
+Lent
+premier
+athletics
+furthest
+veal vessel
+battle
+pick up
+athletic
+maid
+profession
+immutable
+tomb
+volleyball
+cooker
+sneaker
+tap
+repeat
+tiny
+textbook
+ceiling
+ballet
+so far
+caption		// 标题，字幕，说明，逮捕
+arrest 
+stuff
+fin
+ware
+
+32. // review & take photo
 
 
 
