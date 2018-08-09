@@ -732,7 +732,7 @@ dine					dine
 awoke
 pray					pray
 
-31. 
+31. @2018.8.8
 tidy tide
 boycott	cowboy
 junk
@@ -773,7 +773,39 @@ stuff
 fin
 ware
 
-32. // review & take photo
+32. @2018.8.9
+far away
+zipper
+curtain
+send for
+thunderstorm
+storm
+rainstorm
+dish
+dig
+shrink
+cut down
+accent				accent
+tongue
+break brake
+humor
+hammer
+ought
+glue
+join up
+thermometer
+tobacco
+tomato
+potato
+go over
+stress
+cathedral
+offence
+train
+carpenter
+altogether
+
+33. // review & take photo
 
 
 
