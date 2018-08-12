@@ -783,9 +783,9 @@ storm
 rainstorm
 dish
 dig
-shrink
+shrink				shrink
 cut down
-accent				accent
+accent				accent			accent
 tongue
 break brake
 humor
@@ -805,7 +805,58 @@ train
 carpenter
 altogether
 
-33. // review & take photo
+33. // review & take photo & phrase
+dug				dug
+quarrel			quarrel
+delicate		
+astonish
+brick
+often
+get away
+modal
+attend
+intend
+carry off
+germ
+infection
+influence
+side by side
+belong
+truck
+prove
+approve
+improve
+apron
+sank
+resist
+collision
+joy
+enjoy
+athletic
+noble
+personnel
+warehouse
+abroad
+affluence
+ferry
+various
+take the place of
+junk
+alight
+caption
+stubborn
+qualification
+come up 
+cinema
+in punlic
+motivational
+troublesome
+warehouse
+puppy
+goblet
+
+34. // review & take photo & phrase
+
 
 
 
