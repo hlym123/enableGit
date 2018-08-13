@@ -16,6 +16,7 @@ get through									// 结束（做完，通过，到达）
 get on			
 come down									// 下降，潦倒，流传
 cousin
+cozy
 firewood
 gather
 get together								// 聚会，聚集，达成一致
@@ -26,17 +27,17 @@ energy
 chimney
 pyramid
 forest
+frost
 comma
 hen
 miniskirt
 
-// == review 2018.7.11 ==
 3. @2018/6/13
 cosy
 yoghurt
 tournament
 skyscraper
-picnic
+picnic				picnic
 toilet
 irrigation
 palace
@@ -67,7 +68,7 @@ fee
 emperor
 empire
 castle
-hang up
+hang up				hang up
 punctual
 bark
 chick				chick
@@ -78,7 +79,8 @@ chance
 change
 downstairs
 
-5. @2018/6/15
+// == review 2018.8.13 =========================================================
+6. @2018/6/15
 molecule
 plain
 precious
@@ -104,7 +106,7 @@ salt					salt
 strick					strick
 dozen					dozen
 
-6. @2018/6/20
+7. @2018/6/20
 telescope
 binoculars
 sweet
@@ -150,7 +152,7 @@ rag
 cushion
 
 
-7. @2018/6/21
+8. @2018/6/21
 stole
 seize
 westwards
@@ -182,7 +184,7 @@ taxpayer
 embody
 ardor
 
-8. @2018/6/24
+9. @2018/6/24
 the Emperor Napoleon
 as well as
 nor
@@ -195,7 +197,7 @@ multinational corporation
 warranty
 
 
-9. @2018/6/25
+10. @2018/6/25
 staff 
 panic
 abundant
@@ -212,7 +214,7 @@ rid					rid				rid				rid
 pound
 encourage
 
-10. @2018/6/26
+11. @2018/6/26
 regardless
 table tennis
 now that							now that
@@ -231,7 +233,7 @@ chorus								chorus
 brow								brow			brow
 swift
 
-11. @2018/6/27
+12. @2018/6/27
 minister
 asset
 socialism
@@ -250,7 +252,7 @@ vague					vague
 stuck
 cotton
 
-12. @2018/6/28
+13. @2018/6/28
 ring back
 the Arctic/Antarctica			
 enthusiastic
@@ -269,7 +271,7 @@ shopkeeper
 trip
 offense
 
-13. @2018.7.2
+14. @2018.7.2
 rouge
 shrine
 vague
@@ -283,7 +285,7 @@ struggle
 separation
 zip code
 
-14. @2018.7.3
+15. @2018.7.3
 straight
 trow away
 harbour
@@ -294,7 +296,7 @@ award
 scarf
 conscious
 
-15. @2018.7.4
+16. @2018.7.4
 now that
 rung
 accountant
@@ -316,7 +318,7 @@ generous
 explicit
 nut
 
-16. @2018.7.5
+17. @2018.7.5
 carpet
 boycott
 tobacco
@@ -330,7 +332,7 @@ wing
 behind
 competence
 
-17. @2018.7.9
+18. @2018.7.9
 hilly
 pocket
 tremble
@@ -363,7 +365,7 @@ boycott
 sweat
 nail
 
-18. @2018.7.10
+19. @2018.7.10
 fall asleep
 jam
 corn
@@ -383,7 +385,7 @@ fog
 melon seed
 information desk
 
-19. @2018.7.11
+20. @2018.7.11
 latest									// 最近的，最新的
 tremble
 prescription
@@ -411,7 +413,7 @@ casual
 shortcoming
 blouse
 
-20. @2018.7.12
+21. @2018.7.12
 passionate
 do some cleaning
 nowhere
@@ -429,7 +431,7 @@ awful
 coast
 contemporary
 
-21. @2018.7.15
+22. @2018.7.15
 fist
 yet
 giraffe
@@ -448,7 +450,7 @@ classify
 marathon
 runner
 
-22. @2018.7.16
+23. @2018.7.16
 passionate
 sheet
 Swiss
@@ -474,7 +476,7 @@ vivid		vivid
 spot
 venom
 
-23. @2018.7.17
+24. @2018.7.17
 folk
 abrupt
 offense
@@ -504,7 +506,7 @@ point to
 statesman		// 政治家，国务活动家
 postgraduate
 
-24. @2018.7.18 
+25. @2018.7.18 
 mistook
 come to
 quilt 	quite	quit
@@ -530,7 +532,7 @@ come out
 unrest
 imagine
 
-25.  @2018.7.19
+26.  @2018.7.19
 onto
 permit
 stuck
@@ -559,7 +561,7 @@ botanical
 surplus
 due
 
-26. @2018.7.22
+27. @2018.7.22
 take the place of		// 代替，取代
 fierce					
 astronomy				// 天文学
@@ -585,7 +587,7 @@ noun
 telephone booth
 alongside
 
-27. @2018.7.23
+28. @2018.7.23
 cooker
 whenever
 tentative			tentative
@@ -608,7 +610,7 @@ dish
 west
 come out
 
-28. @2018.7.24
+29. @2018.7.24
 exploit
 coat
 own
@@ -627,7 +629,7 @@ shop assistant
 canyon					canyon
 
 
-29. @2018.8.6
+30. @2018.8.6
 call on
 opposite
 add up to
@@ -684,7 +686,7 @@ blow
 all in all
 pretend
 
-30. @2018.8.7
+31. @2018.8.7
 controversial
 neat
 ambiguous
@@ -732,7 +734,7 @@ dine					dine
 awoke
 pray					pray
 
-31. @2018.8.8
+32. @2018.8.8
 tidy tide
 boycott	cowboy
 junk
@@ -773,7 +775,7 @@ stuff
 fin
 ware
 
-32. @2018.8.9
+33. @2018.8.9
 far away
 zipper
 curtain
@@ -805,7 +807,7 @@ train
 carpenter
 altogether
 
-33. // review & take photo & phrase
+34. // review & take photo & phrase
 dug				dug
 quarrel			quarrel
 delicate		
@@ -855,7 +857,62 @@ warehouse
 puppy
 goblet
 
-34. // review & take photo & phrase
+35. // review & take photo & phrase
+attractive
+now that
+accent
+decent
+shrink
+road
+rude
+rode
+as long as
+southern
+further
+cooker
+punch
+pub
+fragrant
+sweater
+go off
+progress
+go over
+cut up
+own
+square
+Mexican
+on show
+shop assistant
+pick up
+break
+brake
+valley
+pardon
+sunglasses
+stare
+steer
+stair
+reservation
+former
+farmer
+environment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
