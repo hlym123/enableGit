@@ -857,7 +857,7 @@ warehouse
 puppy
 goblet
 
-35. // review & take photo & phrase
+35.  
 attractive
 now that
 accent
@@ -866,6 +866,7 @@ shrink
 road
 rude
 rode
+rule
 as long as
 southern
 further
@@ -891,12 +892,40 @@ pardon
 sunglasses
 stare
 steer
-stair
+stair	stair
 reservation
 former
 farmer
 environment
 
+36. @2018.8.27// review & take photo & phrase
+accompany
+go for
+change into
+realize
+tablet
+// ??? beligum
+pop
+dominate
+march
+give away
+maintain	maintain
+not at all
+astronomy
+steel
+steer
+wool
+wood
+whose
+soup
+sour
+container
+bedclothes
+wet
+dry
+molder
+
+37.
 
 
 
