@@ -29,11 +29,14 @@ Bootloader local
  Arduino内存优化
 #include <avr/pgmspace.h> 
 const data_type my_array[] PROGMEM = 
+pgm_read_byte
+
 */
 
 
 
-
+@2018/6/14 
+Arduino UNO A0~A5 对应数字 14~19
 
 
 
@@ -199,6 +202,24 @@ Mouse
 
 
 
+
+// Software Serial
+
+available()
+begin()
+isListening()
+overflow()
+peek()
+read()
+print()
+println()
+
+/**
+ * Enables the selected software serial port to listen. Only one software serial port can listen at a time;  
+ */
+listen()
+
+write()
 
 
 
