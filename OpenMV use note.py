@@ -22,3 +22,12 @@ pyb.stop() # stop CPU, waiting for external interrupt
 '''
  1.2 Delay and timing
 '''
+
+
+
+'''
+	图像处理背景知识
+'''
+
+# ref: http://book.openmv.cc/
+# https://blog.csdn.net/HZ_CloudRiver/article/details/78177307?locationNum=6&fps=1#t1 
