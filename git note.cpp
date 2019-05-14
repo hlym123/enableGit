@@ -14,6 +14,7 @@ cd "directory"
 1. git init  	// 通过git init命令把这个目录变成Git可以管理的仓库
 2. git add	 	// 用命令git add告诉Git，把文件添加到仓库
 3. git commit  	// 用命令git commit告诉Git，把文件提交到仓库
+	git commit -m "change log"
 4. git status
 5. git diff "file name"
 
