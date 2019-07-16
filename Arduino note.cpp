@@ -30,6 +30,10 @@ Bootloader local
 #include <avr/pgmspace.h> 
 const data_type my_array[] PROGMEM = 
 pgm_read_byte
+for (uint8_t i=0; i<16; i++) {
+	buffer[i] = pgm_read_byte(&table7[i]);    
+}
+
 
 */
 
